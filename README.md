@@ -1,7 +1,3 @@
-# NVCCwithNotebook
+# Running CUDA in notebooks
 
-https://stackoverflow.com/questions/56854243/how-to-link-the-libraries-when-executing-cuda-program-on-google-colab
-
-Dire che si può usare anche per AWS
-
-Bisogna dire che non sono ammessi file .cuh, ma solo .h.
+Have a look at [Running CUDA in Google Colab](https://vitalitylearning.medium.com/running-cuda-in-google-colab-525a92efcf75).
